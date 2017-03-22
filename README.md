@@ -32,7 +32,8 @@ This code will draw level 4 in a cyan blue.
 ```JavaScript
 hangman.drawLevel(4, 'cyan');
 ```
-<p> Depending on your terminal theme settings you will get something that looks like this:
+Depending on your terminal theme settings you will get something that looks like this:
+<p>
     <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_4_cyan.png'</img>
 </p>
 
@@ -41,13 +42,15 @@ hangman.drawLevel(4, 'cyan');
 ```JavaScript
 hangman.drawLevel(0, 'magenta')
 ```
-<p> Level 0 in magenta:
+Level 0 in magenta:
+<p>
     <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_0_magenta.png'</img>
 </p>
 
 ```JavaScript
 hangman.drawLevel(6, 'green')
 ```
-<p> Level 6 in green:
+Level 6 in magenta:
+<p>
     <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_6_green.png'</img>
 </p>
