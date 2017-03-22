@@ -34,7 +34,7 @@ hangman.drawLevel(4, 'cyan');
 ```
 Depending on your terminal theme settings you will get something that looks like this:
 <p>
-    <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_4_cyan.png'</img>
+    <img src='https://raw.githubusercontent.com/juliemdyer/Hangman-ascii/master/screenshots/level_4_cyan.png'</img>
 </p>
 
 
@@ -44,7 +44,7 @@ hangman.drawLevel(0, 'magenta')
 ```
 Level 0 in magenta:
 <p>
-    <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_0_magenta.png'</img>
+    <img src='https://raw.github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_0_magenta.png'</img>
 </p>
 
 ```JavaScript
@@ -52,5 +52,5 @@ hangman.drawLevel(6, 'green')
 ```
 Level 6 in magenta:
 <p>
-    <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_6_green.png'</img>
+    <img src='https://raw.github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_6_green.png'</img>
 </p>
