@@ -25,6 +25,6 @@ This code will draw level 4 in a cyan blue.
 ```JavaScript
 hangman.drawLevel(4, 'cyan');
 ```
-<p>
-    <img src='https://github.com/juliemdyer/Hangman-ascii/screenshots/level_4_cyan.png'</img>
+<p> Depending on your terminal theme settings you will get something that looks like this:
+    <img src='https://github.com/juliemdyer/Hangman-ascii/blob/master/screenshots/level_4_cyan.png'</img>
 </p>
