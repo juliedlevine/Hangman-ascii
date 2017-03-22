@@ -1,3 +1,3 @@
 var hangman = require('./hangman');
 
-hangman.drawLevel(4, 'cyan');
+hangman.drawLevel(6, 'green')
