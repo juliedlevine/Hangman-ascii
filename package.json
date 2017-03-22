@@ -1,8 +1,8 @@
 {
   "name": "hangman-ascii",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ascii art that can be used for Hangman command line games.",
-  "main": "index.js",
+  "main": "hangman.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "chalksay": "^1.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliemdyer/Hangman-ascii.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juliemdyer/Hangman-ascii/issues"
+  },
+  "homepage": "https://github.com/juliemdyer/Hangman-ascii#readme"
 }
