@@ -1,6 +1,6 @@
 {
   "name": "hangman-ascii",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ascii art that can be used for Hangman command line games.",
   "main": "hangman.js",
   "scripts": {
